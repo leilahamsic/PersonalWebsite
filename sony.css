@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   
   background: cornflowerblue;
@@ -34,4 +35,42 @@ h4{
   
   color: burlywood;
   
+=======
+body {
+  
+  background: cornflowerblue;
+  
+}
+
+h1 {
+  
+  color: darkslateblue;
+  
+  text-align: center;
+  
+  font-weight: bold;
+
+}
+
+p{
+  
+  text-align: center;
+  
+  color: antiquewhite;
+  
+}
+
+h2{
+  
+  text-align: center;
+  
+  color: darkslateblue;
+  
+}
+
+h4{
+  
+  color: burlywood;
+  
+>>>>>>> 9519a003ee28e42876a942e62ca2408c56fd7f21
 }
