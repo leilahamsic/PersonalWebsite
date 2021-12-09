@@ -1,0 +1,53 @@
+body{
+
+  background-color: cornflowerblue;
+
+}
+
+h1{
+
+  text-align: center;
+
+  color: darkslateblue;
+
+}
+
+h2{
+
+  text-align: center;
+
+  color: darkslateblue;
+
+}
+
+p{
+
+  text-align: center;
+
+  color: antiquewhite;
+
+}
+
+h3{
+
+  color: azure ;
+
+  text-align: center;
+
+  width: 150px;
+
+  height: 200px;
+
+  float: right; 
+
+  border-radius: 15px; 
+
+  border: 7.5px double #483D8B;
+
+}
+
+h4{
+  
+  color: burlywood;
+    
+}
